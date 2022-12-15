@@ -19,5 +19,6 @@ ls .\Subfolder\*.cs | dotnet format whitespace --folder
 
 - [dotnet format in MS](https://learn.microsoft.com/en-us/dotnet/core/tools/dotnet-format)
 - [dotnet format in GitHub](https://github.com/dotnet/format)
+- [C# formatting options](https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/style-rules/csharp-formatting-options)
 - [.editorConfig](https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/configuration-files#editorconfig)
 - [pre-commit](https://prettier.io/docs/en/precommit.html)
