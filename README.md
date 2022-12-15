@@ -77,7 +77,7 @@ You can set your own .editorconfig file according to [C# formatting options](htt
 
 ## How to Migrate
 
-If your repository is alreay on the fly, you could also set pre-commit easily.
+If your repository is alreay on the fly, you are still able to set pre-commit easily.
 
 All you need to do is:
 
