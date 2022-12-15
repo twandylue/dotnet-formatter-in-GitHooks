@@ -1,6 +1,6 @@
 # dotnet-formatter-in-GitHooks
 
-Introduce how to use dotnet format in Git Hooks
+Introduce how to use dotnet format in Git Hooks.
 
 ## Prerequisite
 
@@ -8,6 +8,8 @@ Introduce how to use dotnet format in Git Hooks
 2. [dotnet format](https://github.com/dotnet/format)(default in dotnet sdk >= 6.0)
 
 ## Purpose
+
+### dotnet format + Git Hooks
 
 Using `dotnet format` as the formatter in [Git Hooks](https://git-scm.com/book/zh-tw/v2/Customizing-Git-Git-Hooks) to help re-format your code before every commit.
 
@@ -80,7 +82,7 @@ If your repository is alreay on the fly, you could also set pre-commit easily.
 All you need to do is:
 
 - [ ] [Create `.githooks/pre-commit`](#step-1) in branch `main`.
-- [ ] *Important*: [Make `.githooks/pre-commit` executable](#step-1) in local device.
+- [ ] **Important**: [Make `.githooks/pre-commit` executable](#step-1) in local device.
 - [ ] [Set your git config](#step-3) in local device.
 - [ ] [Create `.editorconfig`](#step-4) in branch `main`.
 
