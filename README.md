@@ -22,3 +22,4 @@ ls .\Subfolder\*.cs | dotnet format whitespace --folder
 - [C# formatting options](https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/style-rules/csharp-formatting-options)
 - [.editorConfig](https://learn.microsoft.com/en-us/dotnet/fundamentals/code-analysis/configuration-files#editorconfig)
 - [pre-commit](https://prettier.io/docs/en/precommit.html)
+- [sharing git hooks](https://mranderson.nl/2020/10/25/how-to-share-git-hooks/)
