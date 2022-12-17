@@ -86,11 +86,6 @@ All you need to do is:
 - [ ] [Set your git config](#step-3) in local device.
 - [ ] [Create `.editorconfig`](#step-4) in branch `main`.
 
-## TODOs
-
-1. 成員彼此間是否能空行(1 行)
-2. 多餘的空行要刪除
-
 ## References
 
 - [dotnet format in GitHub](https://github.com/dotnet/format)
