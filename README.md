@@ -4,8 +4,8 @@ Introduce how to use dotnet format in Git Hooks.
 
 ## Prerequisite
 
-1. dotnet sdk >= 6.0 (Already including `dotnet format` in default)
-2. [dotnet format](https://github.com/dotnet/format) (if dotnet sdk < 6.0)
+- dotnet sdk >= 6.0 (Already including `dotnet format` in default)
+- (optional) [dotnet format](https://github.com/dotnet/format) (if dotnet sdk < 6.0)
 
 ## Purpose
 
