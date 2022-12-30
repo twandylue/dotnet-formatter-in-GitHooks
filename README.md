@@ -2,6 +2,9 @@
 
 Introduce how to use dotnet format in Git Hooks.
 
+> Check coding format with `.editorconfig` in CI pipelines in GitLab.  
+> See [my demo project in GitLab](https://gitlab.com/my-group1177/format-in-ci-demo) for more details.
+
 ## Prerequisite
 
 - dotnet sdk >= 6.0 (Already including `dotnet format` in default)
