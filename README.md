@@ -69,7 +69,7 @@ Create a `.editorconfig` file in the root directory.
 ```plain
 ❯ tree -a
 .
-├── .editorConfig
+├── .editorconfig
 └── .githooks
     └── pre-commit
 ```
